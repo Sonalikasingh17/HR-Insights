@@ -1,6 +1,6 @@
 # HR-Insights - Employeee prsence Analysis
 Data-Analytics Project for Beginners
- 
+  
 ## Project Overview    
      
 This project focuses on analyzing employee presence data for AtliQ Technologies using Power BI. The goal is to create an interactive dashboard that provides the HR team with actionable insights into employee attendance patterns and work-from-home trends.
