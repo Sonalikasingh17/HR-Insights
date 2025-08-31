@@ -6,7 +6,7 @@ Data-Analytics Project for Beginners
 This project focuses on analyzing employee presence data for AtliQ Technologies using Power BI. The goal is to create an interactive dashboard that provides the HR team with actionable insights into employee attendance patterns and work-from-home trends.
  
 ## Key Features 
-
+ 
 Data Collection & Transformation: Collected and transformed employee attendance data using Power Query in Power BI, consolidating information from multiple Excel sheets.
 
 Data Analysis: Analyzed key metrics such as work-from-home percentages, sick leave statistics, and overall attendance trends.
